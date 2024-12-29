@@ -62,7 +62,7 @@ function Header() {
 
   return (
     <header className="header">
-      <h1 style={style}>Fast  Pizza Co.</h1>
+      <h1 style={style}>Fast Pizza Co.</h1>
     </header>
   );
 }
